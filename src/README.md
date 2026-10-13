@@ -1,5 +1,11 @@
 # CLZ C Baseline
 
+<<<<<<< Updated upstream:src/README.md
+=======
+本資料夾存放 CLZ（Count Leading Zeros）的 C 語言參考實作與測試程式，
+用於驗證功能是否符合規格。
+
+>>>>>>> Stashed changes:instructions/CLZ/README.md
 - 對應 Checkpoint：CP1
 - 內容：CLZ 的 C 參考實作與內建測試程式
 
